@@ -1,0 +1,11 @@
+[package]
+name = "luban-editor"
+version = "0.1.0"
+edition = "2018"
+authors = ["Selenium39 <selenium39@qq.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+termion = "1"
+unicode-segmentation = "1"
